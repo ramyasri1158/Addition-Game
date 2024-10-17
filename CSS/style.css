@@ -1,0 +1,55 @@
+.image{
+    width:320px;
+    height: 280px;
+    margin: auto;
+}
+body{
+    text-align: center;
+}
+.bg-container{
+    background-color: #e6e9ed;
+    width:70%;
+    margin: auto;
+    border-radius: 12px;
+    padding: 12px;
+}
+.butn{
+    padding:8px;
+    margin: 10px;
+    border-radius: 8px;
+    border-width: 0px;
+}
+.number{
+    color: #323f4b;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 0px;
+    border-color: #e4e7eb;
+    border-radius: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.operator{
+    color: #095dac;
+    width: 10px;
+}
+.inpt{
+    background-color: #cbd2d9;
+    border-radius:12px ;
+    border-width: 0px;
+    font-size: 20px;
+    text-align: center;
+}
+.game-result{
+    color: #ffffff;
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 12px;
+}
